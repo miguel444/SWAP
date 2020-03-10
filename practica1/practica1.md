@@ -1,4 +1,6 @@
 # **PRÁCTICA 1 : Preparación de las herramientas**
+
+**AUTOR : MIGUEL ÁNGEL PÉREZ DÍAZ**
     
 ## *Preparación de las máquinas virtuales*
 Para esta práctica inicialmente debemos crear dos máquinas virtuales llamadas M1 y M2 , las cuáles dispondrán de 512 MB de memoria RAM y un disco duro dinámico de 10GB.
