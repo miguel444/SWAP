@@ -66,11 +66,18 @@ Seleccionamos todas las opciones por defecto y las correspondiente a nuestra fra
 ---
 
 - Creación de usuario
+    - User : miguel444 (usuario de Github)
+    - Password: Swap1234
 
 ![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/Crear%20Usuario.png)
 
 ---
 
+Una vez tenemos el sistema operativo en las dos máquinas vamos a instalar el servicio LAMP, ya que no nos  aparecido la opción durante la instalación vamos a proceder a instalarlo manualmente de la siguiente forma :
+
+- `sudo apt-get install apache2 mysql-server mysql-client`
+
+![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/Instalar%20LAMP.png)
 
 
 
