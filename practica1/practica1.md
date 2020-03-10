@@ -120,6 +120,8 @@ Antes de realizar cualquiera de las tareas vamos a comprobar si una vez configur
 
 ![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/Ping%20m2-m1.png)
 
+---
+
 Una vez comprobada la conectividad vamos a proceder a crear el fichero *ejemplo.html* en la ruta *var/www/html* en M1 :
 
 ![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/ejemplo-html.png)
@@ -127,6 +129,8 @@ Una vez comprobada la conectividad vamos a proceder a crear el fichero *ejemplo.
 De esta forma vamos a ejecutar el siguiente comando en M2 : `curl http://192.168.56.12/ejemplo.html` para obtener y mostrar el fichero creado anteriormente en M1. Obteniendo así la siguiente respuesta :
 
 ![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/CURL%20HTML.png)
+
+---
 
 Como última tarea vamos a proceder a realizar SSH desde la máquina M2 a M1, para ello debemos ejecutar lo siguiente : 
 `ssh 192.168.56.12` (siendo ésta la dirección IP de M1). 
