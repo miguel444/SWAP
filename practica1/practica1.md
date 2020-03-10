@@ -73,7 +73,7 @@ Seleccionamos todas las opciones por defecto y las correspondiente a nuestra fra
 
 ---
 
-Una vez tenemos el sistema operativo en las dos máquinas vamos a instalar el servicio LAMP, ya que no nos  aparecido la opción durante la instalación vamos a proceder a instalarlo manualmente de la siguiente forma :
+Una vez tenemos el sistema operativo en las dos máquinas vamos a instalar el servicio LAMP, ya que no nos ha aparecido la opción durante la instalación vamos a proceder a instalarlo manualmente de la siguiente forma :
 
 - `sudo apt-get install apache2 mysql-server mysql-client`
 
@@ -88,7 +88,9 @@ También, y de cara a las siguientes prácticas, podemos activar la cuenta de ro
 
 Finalmente antes de ponerse manos a la obra y realizar las tareas correspondiente a esta práctica, vamos a comprobar que los servicios instalados anteriormente de LAMP y SSH se encuentran activos. De esta forma:
 
-- Para comprobar el estado del servicio Apache2   `sudo service apache2 status`
+- Para comprobar el estado del servicio Apache2   
+    - `sudo service apache2 status`
+    - `apache2 -v`
 
 ![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/Apache2%20funciona.png)
 
