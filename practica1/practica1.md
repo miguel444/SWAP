@@ -15,3 +15,18 @@ Se nombra a la máquina virtual y se asigna tipo de sistema operativo y versión
 ---
 
 ![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/Nombre%20y%20SO.png)
+
+---
+
+A continuación vamos a asignar a cada máquina la memoria RAM y el espacio de disco duro mencionados anteriormente. De esta manera seleccionamos ambos valores :
+
+- Asignación memoria RAM:
+---
+![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/Asignar%20RAM.png)
+
+---
+
+- Asignación espacio disco duro:
+---
+![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/Asignar%20espacio.png)
+
