@@ -22,11 +22,11 @@ A continuación vamos a asignar a cada máquina la memoria RAM y el espacio de d
 
 - Asignación memoria RAM:
 ---
-![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/Asignar%20RAM.png)
+<center>https://github.com/miguel444/SWAP/blob/master/practica1/images/Asignar%20RAM.png</center>
 
 ---
 
 - Asignación espacio disco duro:
 ---
-![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/Asignar%20espacio.png)
+<center>(https://github.com/miguel444/SWAP/blob/master/practica1/images/Asignar%20espacio.png</center>
 
