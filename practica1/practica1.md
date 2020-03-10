@@ -79,5 +79,12 @@ Una vez tenemos el sistema operativo en las dos máquinas vamos a instalar el se
 
 ![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/Instalar%20LAMP.png)
 
+También, y de cara a las siguientes prácticas, podemos activar la cuenta de root. De esta forma, luego podremos acceder como superusuario, copiar contenidos con todos los permisos, etc, sin necesidad de andar usando sudo. Para eso, podéis ejecutar en todas las máquinas el siguiente comando:
+
+- `sudo passwd root`
+
+![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/Instalar%20LAMP.png)
+
+
 
 
