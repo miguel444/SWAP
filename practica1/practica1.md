@@ -51,5 +51,26 @@ A continuación se va a configurar los adaptadores de red : uno en modo NAT (vie
 
 ![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/Solo-Anfitrion.png)
 
+---
+
+## *Instalación Ubuntu Server 18.04 y puesta a punto*
+
+En esta sección se va a completar la instalación de Ubuntu Server para las dos máquinas virtuales, de esta forma obtendremos las máquinas totalmente configuradas para los ejercicios que se piden para esta práctica. 
+
+Seleccionamos todas las opciones por defecto y las correspondiente a nuestra franja horaria, y finalmente creamos nuestro usuario. Antes de crear el usuario en cada máquina virtual seleccionamos que se instale el servicio SSH en el proceso de instalación.
+
+- Selección servicio SSH:
+  
+![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/SSH.png)
+
+---
+
+- Creación de usuario
+
+![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/Crear%20Usuario.png)
+
+---
+
+
 
 
