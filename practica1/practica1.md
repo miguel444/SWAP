@@ -105,8 +105,8 @@ En esta práctica el objetivo es **configurar las máquinas virtuales** (al meno
 trabajar en prácticas posteriores, **asegurando la conectividad entre dichas máquinas**
 
 Específicamente, hay que llevar a cabo las siguientes tareas:
-    1.Acceder por SSH de una máquina a otra
-    2.Acceder mediante la herramienta curl desde una máquina a la otra
+    1. Acceder por SSH de una máquina a otra
+    2. Acceder mediante la herramienta curl desde una máquina a la otra
 
 
 Antes de realizar cualquiera de las tareas vamos a comprobar si una vez configurados los adaptadores de red obtenemos conectividad entre ambas máquinas. De este modo vamos a realizar `ping` de una máquina a otra y vicerversa.
@@ -127,7 +127,8 @@ De esta forma vamos a ejecutar el siguiente comando en M2 : `curl http://192.168
 
 ![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/CURL%20HTML.png)
 
-Como última tarea vamos a proceder a realizar SSH desde la máquina M2 a M1, para ello debemos ejecutar lo siguiente : `ssh 192.168.56.12` (siendo ésta la dirección IP de M1). Una vez establecida la conexión nos pedirá confirmación y la contraseña de la dirección destino , en este caso la contraseña de M1 que como sabemos sería Swap1234.
+Como última tarea vamos a proceder a realizar SSH desde la máquina M2 a M1, para ello debemos ejecutar lo siguiente : `ssh 192.168.56.12` (siendo ésta la dirección IP de M1). 
+Una vez establecida la conexión nos pedirá confirmación y la contraseña de la dirección destino , en este caso la contraseña de M1 que como sabemos sería Swap1234.
 
 ![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/Conexion%20SSH.png)
 
