@@ -105,8 +105,9 @@ En esta práctica el objetivo es **configurar las máquinas virtuales** (al meno
 trabajar en prácticas posteriores, **asegurando la conectividad entre dichas máquinas**
 
 Específicamente, hay que llevar a cabo las siguientes tareas:
-    1. Acceder por SSH de una máquina a otra
-    2. Acceder mediante la herramienta curl desde una máquina a la otra
+
+1. Acceder por SSH de una máquina a otra
+2. Acceder mediante la herramienta curl desde una máquina a la otra
 
 
 Antes de realizar cualquiera de las tareas vamos a comprobar si una vez configurados los adaptadores de red obtenemos conectividad entre ambas máquinas. De este modo vamos a realizar `ping` de una máquina a otra y vicerversa.
