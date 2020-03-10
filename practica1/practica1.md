@@ -11,5 +11,7 @@ Se nombra a la máquina virtual y se asigna tipo de sistema operativo y versión
 - Nombre de la máquina virtual : M2 (M1 en el otro caso)
 - Tipo : Linux
 - Versión: Ubuntu (64 bits)
-          
+  
+---
+
 ![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/Nombre%20y%20SO.png)
