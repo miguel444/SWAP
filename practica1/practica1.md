@@ -83,8 +83,18 @@ También, y de cara a las siguientes prácticas, podemos activar la cuenta de ro
 
 - `sudo passwd root`
 
-![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/Instalar%20LAMP.png)
+![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/Activar%20Cuenta%20Root.png)
 
+
+Finalmente antes de ponerse manos a la obra y realizar las tareas correspondiente a esta práctica, vamos a comprobar que los servicios instalados anteriormente de LAMP y SSH se encuentran activos. De esta forma:
+
+- Para comprobar el estado del servicio Apache2   `sudo service apache2 status`
+
+![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/Apache2%20funciona.png)
+
+- Para comprobar el estado del servicio SSH   `sudo systemctl status ssh`
+
+![img](https://github.com/miguel444/SWAP/blob/master/practica1/images/SSH-funciona.png)
 
 
 
